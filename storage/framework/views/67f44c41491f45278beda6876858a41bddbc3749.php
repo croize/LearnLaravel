@@ -8,17 +8,13 @@
     <form action="proses" method="post">
         <?php echo e(csrf_field()); ?>
 
-        <label>
             Nama:
             <input type="text" name="nama">
-        </label>
         <br>
-        <label>
             Nilai:
             <input type="text" name="nilai">
-        </label>
         <br>
-        <input type="submit">
+        <input type="submit" value="OK">
     </form>
 </body>
 </html>

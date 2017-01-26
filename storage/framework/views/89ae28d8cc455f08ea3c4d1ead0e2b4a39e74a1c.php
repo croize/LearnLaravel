@@ -1,6 +1,15 @@
-<h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
 	
-	<?php echo e($name); ?>;
-	<?php echo e($score); ?>;
+	Nama : <?php echo e($namet); ?> <br>
+	Nilai : <?php echo e($nilait); ?> <br>
+	Ket : <?php echo e($ket); ?>
+
 	
-</h1>
+</body>
+</html>

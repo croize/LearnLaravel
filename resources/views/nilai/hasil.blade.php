@@ -1,6 +1,16 @@
-<h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
 	
-	{{$nama}};
-	{{$score}};
+	Nama : {{$namet}} <br>
+	Nilai : {{$nilait}} <br>
+	Ket : {{$ket}}
 	
-</h1>
+	<!--{{$namet}} dll itu dari contoller nya-->
+	
+</body>
+</html>

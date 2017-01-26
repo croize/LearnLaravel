@@ -13,7 +13,7 @@
             Nilai:
             <input type="text" name="nilai">
         <br>
-        <input type="submit">
+        <input type="submit" value="OK">
     </form>
 </body>
 </html>
